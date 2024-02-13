@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Poppins;
+    src: url(asset/Poppins/Poppins-SemiBold.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #121e2c;
+    font-family: 'Poppins', sans-serif;
+}
+#nav{
+    background: #121e2c;
+}
+#project{
+    background: #1f2e40;
+}
+.flip{
+    background: #121e2c;
+}
+.work{
+    background: #1f2e40;
+}
+.logo{
+    aspect-ratio: 16/9;
+    width: 140px;
+    height: 100%;
+    object-fit: contain;
+}
+.featured{
+    aspect-ratio: 1/1;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
