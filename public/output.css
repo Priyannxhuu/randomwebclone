@@ -620,6 +620,14 @@ video {
   max-width: 250px;
 }
 
+.max-w-\[400px\] {
+  max-width: 400px;
+}
+
+.max-w-\[600px\] {
+  max-width: 600px;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
@@ -702,6 +710,10 @@ video {
 
 .border-0 {
   border-width: 0px;
+}
+
+.border {
+  border-width: 1px;
 }
 
 .bg-green-600 {
